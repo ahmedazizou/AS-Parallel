@@ -22,7 +22,8 @@ items of type 1, 5 items of type 7 and 8 items of type 10.
  
 
 # Results
-Results of Task 1
+
+Results of Task 1 
 Duration of 2 Threads : 9545
 Duration of 3 Threads : 6290
 Duration of 4 Threads : 4758
