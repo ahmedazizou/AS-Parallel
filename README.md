@@ -12,7 +12,6 @@ items of type 1, 5 items of type 7 and 8 items of type 10.
  2. Clone this repository to your local machine using:
 	```
 	git-client://clone?repo=https://github.com/ahmedazizou/ParallelProgramming.git
-	
 	```
  3. Open the folders using Visual studio
  
